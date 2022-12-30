@@ -7,7 +7,7 @@ Below is a list of open source games and game-related projects that can be found
 # Table of Contents.
 
 - [Major Companies](#major-companies)
-- [Windows/Linux Games](#user-content-Windows-Linux-Games)
+- [Windows/Linux Games](#user-content-Windows/Linux)
   - [Action](#user-content-action)
   - [Arcade](#user-content-arcade)
   - [FPS](#user-content-fps)
